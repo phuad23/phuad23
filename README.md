@@ -63,7 +63,15 @@ I have excellent analytical skills and attention to detail and I am great at wor
     </ul>
  </details>
 
-
+### Microsoft PowerBi
+  <details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/phuad23/Product-Sales-Analysis"> Product Sales Analysis
+   </a></li>
+       </ul>
+ </details>
 
 ## 📬Connect with Me Here
 
