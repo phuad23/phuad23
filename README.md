@@ -28,6 +28,8 @@ I have excellent analytical skills and attention to detail and I am great at wor
     <li><a href ="https://github.com/phuad23/-Accenture-North-America---Data-Analytics-and-Visualization-Job-Simulation"> Accenture - North America, Virtual Job Simulation
     </a>  
     </li>
+    <li><a href = "https://github.com/phuad23/Deloitte-Australia---Data-Analytics-Job-Simulation/tree/main"> Deloitte - Australia, Data Analytics Job Simulation
+    </a></li>
   </ul>
   </details>
 
