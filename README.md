@@ -75,6 +75,15 @@ I have excellent analytical skills and attention to detail and I am great at wor
        </ul>
  </details>
 
+<details>
+   <summary> Click to view
+   </summary>
+    <ul>
+    <li><a href= "https://github.com/phuad23/E-Commerce-Analysis"> Global E-Commerce Analysis
+   </a></li>
+       </ul>
+ </details>
+
 ## 📬Connect with Me Here
 
 - [LinkedIn](https://www.linkedin.com/in/fuad-giwa-cln-mit-2a002482/)
