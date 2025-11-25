@@ -72,17 +72,12 @@ I have excellent analytical skills and attention to detail and I am great at wor
     <ul>
     <li><a href= "https://github.com/phuad23/Covid-19-Analysis"> Covid 19 Analysis
    </a></li>
-       </ul>
- </details>
-
-<details>
-   <summary> Click to view
-   </summary>
-    <ul>
-    <li><a href= "https://github.com/phuad23/E-Commerce-Analysis"> Global E-Commerce Analysis
+      <li><a href= "https://github.com/phuad23/E-Commerce-Analysis"> Global E-Commerce Analysis
    </a></li>
        </ul>
  </details>
+
+
 
 ## 📬Connect with Me Here
 
